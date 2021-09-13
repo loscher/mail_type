@@ -1,0 +1,22 @@
+
+main()
+h=height
+l=length
+t=thickness
+z=zones
+h(user_input) =((print(“what is height?”),h)
+	h(user_input)=user_input
+l(user_input): ((print(“what is length?”),l)
+	l(user_input)=user_input
+t(user_input)= ((print(“what is thickness?”),t)
+	t(user_input)=user_input
+z(user_input)=((print("how many zones?"),z)
+	z(user_input)=user_input
+typemail(height, length, thickness)
+if 3.5<l<4.25 and 3.5>h>6 and .007>t>.016
+	then typemail=reg
+reg=.20+.03z
+If 4.25<l<6 and 6<h<11.5 and .007<t<.015
+	then typemail=large
+large=.37+.03z
+if
